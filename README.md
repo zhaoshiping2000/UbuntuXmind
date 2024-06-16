@@ -5,7 +5,7 @@
 大家好！今天我将向大家展示如何在 Ubuntu 系统上安装专业版的 XMind。
 
 #### 第一步：下载 XMind 安装包
-首先，打开浏览器，访问以下下载链接 [外链](https://wwl.lanzoue.com/b023lpzbti) 并输入密码：6666，下载以下两个文件：
+首先，打开浏览器，下载我给大家分享的链接里的文件 [外链](https://wwl.lanzoue.com/b023lpzbti) 并输入密码：6666，下载以下两个文件：
 - `XMind-2020-for-Linux-amd-64bit-10.3.1-20210113211.deb`
 - `app.asar.tar.gz`
 
